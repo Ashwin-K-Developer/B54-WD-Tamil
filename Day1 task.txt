@@ -1,0 +1,2 @@
+Write a blog about javascript.
+Answer: js is a programming language.
